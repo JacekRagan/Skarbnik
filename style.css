@@ -71,18 +71,18 @@ body{
     #nav{
         text-align:left;
         width:100px;
-        height:600px;
+        height:570px;
     }
     #content{
         background-color:red;
         text-align:center;
         font-size:30px;
-        width:200px;
-        height:550px;
+        width:100px;
+        height:570px;
     }
     #nav2{
         width:100px;
-        height:600px;
+        height:570px;
     }
     #footer{
         position:absolute;
