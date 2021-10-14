@@ -64,18 +64,19 @@ body{
         height:100px;
     }
     #nav{
+        text-align:left;
         width:100px;
-        height:400px;
+        height:500px;
     }
     #content{
         text-align:center;
-        font-size:40px;
+        font-size:30px;
         width:100px;
         height:500px;
     }
     #nav2{
         width:100px;
-        height:400px;
+        height:500px;
     }
     #footer{
         position:absolute;
