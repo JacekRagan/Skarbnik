@@ -65,18 +65,18 @@ body{
     #nav{
         text-align:left;
         width:100px;
-        height:500px;
+        height:600px;
     }
     #content{
         background-color:red;
         text-align:center;
         font-size:30px;
         width:200px;
-        height:500px;
+        height:600px;
     }
     #nav2{
         width:100px;
-        height:500px;
+        height:600px;
     }
     #footer{
         position:absolute;
