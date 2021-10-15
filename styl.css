@@ -80,6 +80,7 @@ body{
         height:100px;
     }
     li{
+        padding:0;
         text-align:left;
         font-size:10px;
     }
