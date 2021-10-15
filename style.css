@@ -21,7 +21,7 @@ body{
     text-align:center;
 }
 #content{
-    background-color:red;
+    
     float:left;
     height:733px;
     width:1500px;
@@ -90,5 +90,8 @@ body{
         width:100%;
         height:100px;
         
+    }
+    ul ol{
+        float:left;
     }
 }
