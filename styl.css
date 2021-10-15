@@ -21,7 +21,6 @@ body{
     text-align:center;
 }
 #content{
-    
     float:left;
     height:733px;
     width:1500px;
@@ -66,7 +65,7 @@ body{
     #content{
         background-color:white;
         text-align:center;
-        font-size:10px;
+        font-size:15px;
         width:200px;
         height:570px;
     }
@@ -82,14 +81,6 @@ body{
     }
     li{
         text-align:left;
-        font-size:20px;
-    }
-    #excel{
-        width:100px;
-        height:570px;
-    }
-    #drive{
-        width:100px;
-        height:570px;
+        font-size:10px;
     }
 }
