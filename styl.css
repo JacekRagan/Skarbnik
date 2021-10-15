@@ -91,6 +91,15 @@ body{
         height:100px;
     }
     li{
-        font-size:5px;
+        text-align:left;
+        font-size:20px;
+    }
+    #excel{
+        width:100px;
+        height:570px;
+    }
+    #drive{
+        width:100px;
+        height:570px;
     }
 }
