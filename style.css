@@ -21,7 +21,7 @@ body{
     text-align:center;
 }
 #content{
-    background-color:white;
+    background-color:red;
     float:left;
     height:733px;
     width:1500px;
@@ -74,10 +74,10 @@ body{
         height:570px;
     }
     #content{
-        background-color:red;
+        margin-left:5px;
         text-align:center;
         font-size:30px;
-        width:100px;
+        width:200px;
         height:570px;
     }
     #nav2{
