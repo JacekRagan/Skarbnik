@@ -69,7 +69,8 @@ body{
         height:100px;
     }
     #nav{
-        font-size:5px;
+        text-align:center;
+        font-size:10px;
         width:100px;
         height:570px;
     }
@@ -93,6 +94,6 @@ body{
     }
     li{
         text-align:left;
-        font-size:20px;
+        font-size:10px;
     }
 }
