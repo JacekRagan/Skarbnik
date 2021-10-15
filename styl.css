@@ -1,0 +1,96 @@
+*{box-sizing: border-box;}
+body{
+    margin:0px;
+    padding: 0px;
+    height:100%;
+}
+#container{
+    width:100%;
+}
+#header{
+    background-color:black;
+    height:80px;
+    color:white;
+    text-align:center;
+}
+#nav{
+    background-color:grey;
+    float:left;
+    width:200px;
+    height:750px;
+    text-align:center;
+}
+#content{
+    
+    float:left;
+    height:733px;
+    width:1500px;
+    text-align:center;
+    font-size:40px;
+}
+#excel{
+    width:750px;
+    height:728px;
+    float:left;
+}
+#drive{
+    width:750px;
+    height:728px;
+    float:right;
+}
+#nav2{
+    background-color:grey;
+    float:right;
+    width:200px;
+    height:750px;
+    text-align:center;
+    text-align: center;
+}
+#footer{
+    position:absolute;
+    bottom:0;
+    width:1920px;
+    height:108px;
+    background-color:darkgrey;
+    text-align:center;
+}
+@media screen and (max-width:1325px){
+    *{box-sizing: border-box;}
+    body{
+        margin:0px;
+        padding: 0px;
+        height:100%;
+    }
+    #container{
+        width:100%;
+    }
+    #header{
+        width:100%;
+        height:100px;
+    }
+    #nav{
+        text-align:left;
+        width:100px;
+        height:570px;
+    }
+    #content{
+        background-color:white;
+        text-align:center;
+        font-size:10px;
+        width:200px;
+        height:570px;
+    }
+    #nav2{
+        width:100px;
+        height:570px;
+    }
+    #footer{
+        position:absolute;
+        bottom:0;
+        width:100%;
+        height:100px;
+    }
+    li{
+        font-size:5px;
+    }
+}
