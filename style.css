@@ -28,16 +28,6 @@ body{
     text-align:center;
     font-size:40px;
 }
-#excel{
-    width:750px;
-    height:728px;
-    float:left;
-}
-#drive{
-    width:750px;
-    height:728px;
-    float:right;
-}
 #nav2{
     background-color:grey;
     float:right;
