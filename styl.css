@@ -46,8 +46,8 @@ body{
 @media screen and (max-width:1325px){
     *{box-sizing: border-box;}
     body{
-        margin:0px;
-        padding: 0px;
+        margin:0;
+        padding:0;
         height:100%;
     }
     #container{
