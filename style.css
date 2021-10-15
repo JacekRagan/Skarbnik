@@ -74,6 +74,7 @@ body{
         height:570px;
     }
     #content{
+        background-color:red;
         margin-left:5px;
         text-align:center;
         font-size:30px;
