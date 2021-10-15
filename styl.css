@@ -65,7 +65,7 @@ body{
     #content{
         background-color:white;
         text-align:center;
-        font-size:15px;
+        font-size:25px;
         width:200px;
         height:570px;
     }
@@ -80,8 +80,8 @@ body{
         height:100px;
     }
     li{
-        padding:0;
-        text-align:left;
         font-size:10px;
+        padding:0;
+        
     }
 }
