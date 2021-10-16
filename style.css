@@ -14,6 +14,7 @@ body{
     text-align:center;
 }
 #nav{
+    font-size:35px;
     background-color:grey;
     float:left;
     width:200px;
@@ -29,11 +30,11 @@ body{
     font-size:40px;
 }
 #nav2{
+    font-size:45px;
     background-color:grey;
     float:right;
     width:200px;
     height:750px;
-    text-align:center;
     text-align: center;
 }
 #footer{
@@ -43,6 +44,12 @@ body{
     height:108px;
     background-color:darkgrey;
     text-align:center;
+}
+ul{
+    font-size:25px;
+}
+li{
+    font-size:25px;
 }
 @media screen and (max-width:1325px){
     *{box-sizing: border-box;}
