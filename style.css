@@ -30,12 +30,17 @@ body{
     font-size:40px;
 }
 #nav2{
-    font-size:45px;
+    font-size:35px;
     background-color:grey;
     float:right;
     width:200px;
     height:750px;
     text-align: center;
+}
+#contact{
+    height:700px;
+    margin-top:20px;
+    font-size:16px;
 }
 #footer{
     position:absolute;
@@ -84,6 +89,11 @@ li{
         font-size:35px;
         width:100px;
         height:570px;
+    }
+    #contact{
+        height:570px;
+        margin-top:20px;
+        font-size:16px;
     }
     #footer{
         position:absolute;
