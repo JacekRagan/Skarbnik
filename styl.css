@@ -37,6 +37,9 @@ body{
     text-align:center;
     text-align: center;
 }
+#contact{
+    font-size:22px;
+}
 #footer{
     position:absolute;
     bottom:0;
@@ -81,6 +84,11 @@ li{
         font-size:45px;
         width:100px;
         height:570px;
+    }
+    #contact{
+        height:570px;
+        margin-top:20px;
+        font-size:16px;
     }
     #footer{
         position:absolute;
