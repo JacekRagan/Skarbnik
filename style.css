@@ -40,7 +40,7 @@ body{
 #contact{
     height:700px;
     margin-top:20px;
-    font-size:13px;
+    font-size:22px;
 }
 #footer{
     position:absolute;
@@ -93,7 +93,7 @@ li{
     #contact{
         height:570px;
         margin-top:20px;
-        font-size:18px;
+        font-size:13px;
     }
     #footer{
         position:absolute;
