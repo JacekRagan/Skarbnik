@@ -60,6 +60,9 @@ ul{
 li{
     font-size:25px;
 }
+a:hover{
+	color: lightgrey;
+}
 @media screen and (max-width:1325px){
     *{box-sizing: border-box;}
     body{
