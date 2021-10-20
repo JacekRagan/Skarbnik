@@ -77,6 +77,10 @@ li{
         width:100px;
         height:570px;
     }
+    nav a {
+        text-decoration: none;
+        color:black;
+    }
     #content{
         background-color:white;
         margin-left:5px;
