@@ -21,7 +21,7 @@ body{
     height:750px;
     text-align:center;
 }
-nav a {
+a{
     text-decoration: none;
     color:white;
 }
@@ -113,5 +113,9 @@ li{
     ul{
         margin-left:-20px;
         float:left;
+    }
+    a{
+        text-decoration: none;
+        color:black;
     }
 }
